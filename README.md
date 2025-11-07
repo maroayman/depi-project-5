@@ -44,6 +44,8 @@ Internet
 └─────────────────────────────────────────────────────────────┘
 ```
 
+![High Availability Architecture](./diagrams/HA-Diagram.svg)
+
 ## Features
 
 - **High Availability**: Multi-AZ deployment across us-east-1a and us-east-1b
